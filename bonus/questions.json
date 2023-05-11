@@ -1,0 +1,6 @@
+[{"q_text":"What are dolphins?",
+"alternatives": ["Forks", "Fish", "Mammals", "Birds"],
+"correct_answer":3},
+{"q_text":"What are a drum?",
+"alternatives": ["Drink", "Instrument", "Axe", "Car"],
+"correct_answer":2}]
